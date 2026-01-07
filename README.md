@@ -17,7 +17,12 @@ Wildfires and industrial fires are among the most dangerous hazards affecting sa
 5. **Performs autonomous navigation using Pixhawk + MAVSDK**
 
 ---
+## **FlOW**
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/25bcfbf3-575c-40f1-8969-32a031c52041" />
+
+
+---
 ## 📹 Demo Summary
 
 The included demo video shows the complete flow:
